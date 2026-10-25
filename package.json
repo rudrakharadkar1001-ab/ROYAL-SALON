@@ -1,0 +1,7 @@
+{
+  "name": "royal-professional-salon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first luxury website for Royal Professional Salon",
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
